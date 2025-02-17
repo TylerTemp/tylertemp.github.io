@@ -25,6 +25,23 @@ layout: home
 
 ## 项目经验 ##
 
+### 游戏果酱 GameJam: 《传说中的纸片公主》 ###
+
+<video poster="images/a-strange-adventure-poster.png" autoplay muted loop width="300px" height="auto" style="max-width: 100%; float: right">
+    <source src="images/a-strange-adventure-video.mp4" type="video/mp4" />
+</video>
+
+6名小伙伴一起参与的 TapTap 聚光灯活动，3周中的业余时间完成游戏开发，安卓+PC端，[taptap.cn/app/725464](https://www.taptap.cn/app/725464)
+
+玩家可以操控、切换角色进行攻击，跳跃，互动，解密，解任务。配合一个小故事，将都市人的疲惫和希望展现出来。
+
+1.  实现对话系统，配合对话系统的场景切换、对话选择等
+2.  配合美术绑定 Spine 骨骼和动画
+3.  制作纸片公主的施法 Spine 动画
+4.  接入 Spine 到游戏的流程中
+5.  PC+移动端适配
+6.  应 TapTap 要求，原生 Java + Android Studio 实现隐私条款弹窗
+
 ### Unity 主程，2023年5月-至今 / 北京震宇翱翔文化创意有限公司 ###
 
 #### 1.  《山河旅探》/辅程 ####
