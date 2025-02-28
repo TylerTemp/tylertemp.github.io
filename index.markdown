@@ -7,9 +7,10 @@ layout: home
 
 *   姓名: 黄铃
 *   生年: 1995
+*   工作: 9年
 *   期望职位: Unity 游戏高级开发 (上海 base)
-*   证书: 英语专业8级
-*   微信: `QQ735506335`; 电话: <a href="tel:13220114946">13220114946</a>; 邮箱: [huang.exe@qq.com](mailto:huang.exe@qq.com)
+*   教育&证书: 上海理工大学（统招一本）；英语专业8级证书
+*   微信: `QQ735506335`; 电话: [13220114946](tel:13220114946); 邮箱: [huang.exe@qq.com](mailto:huang.exe@qq.com)
 
 -------------------------
 
@@ -76,13 +77,15 @@ Steam: [store.steampowered.com/app/3444020/__Demonic_Mahjong](https://store.stea
 
 ### Unity 技术总监，2019年10月-2023年5月（3.5年） / 独立游戏团队 Bobo Studio（创业团队） ###
 
-#### Groobo/技术总监 ####
+#### 《Groobo》音游 ####
 
 <a href="https://groobo.comes.today" target="_blank"><img src="images/groobo.png" height=300px width="auto" style="float: right" /></a>
 
 创新式音游，中重度游戏。iOS海外区: [apps.apple.com/app/id1552831622](https://apps.apple.com/app/id1552831622)，Google Play: [play.google.com/store/apps/details?id=studio.bobo.grooverpg](https://play.google.com/store/apps/details?id=studio.bobo.grooverpg) 。
 
 玩家通过点击消灭不同轨道的怪物，并积攒魔力，释放技能以影响怪物，冻结动态生成源（降低难度）来破关。人物可成长解锁多个技能来组合，人物之间也能配合过关。
+
+团队人数10人，负责管理团队，负责项目的技术推进。
 
 * 自研音游引擎：
     * 制作谱面师打点工具，解析并落地为 ScriptableObject 对象
@@ -112,9 +115,11 @@ Steam: [store.steampowered.com/app/3444020/__Demonic_Mahjong](https://store.stea
     * 与程序分配任务，沟通确认需求、时间
     * 与翻译（外国人）沟通项目英文翻译，配合首轮翻译，并参与四轮校对和五轮终校
 
-#### 《打豆豆》/技术总监 ####
+#### 《打豆豆》 ####
 
-<img src="images/hand.png" height=300px width="auto" style="float: right" />
+<video poster="images/hand.png" height=300px width="auto" autoplay muted loop style="max-width: 100%; float: right">
+    <source src="images/hand.mp4" type="video/mp4" />
+</video>
 
 节奏游戏。屏幕下一堆小球按节奏变大变小，看准时机点击小球后，小球飞上去攻击。
 
@@ -151,7 +156,7 @@ Steam: [store.steampowered.com/app/3444020/__Demonic_Mahjong](https://store.stea
 
 ### 2017.6-2019.7(2年)/主程/北京趣味谷科技有限公司  ###
 
-游戏公司，Unity & Cocos Creator，游戏开发
+游戏公司，Unity & Cocos Creator，游戏开发。团队人数8人，负责管理团队，负责项目的技术推进
 
 #### 1. 《进击的炮娘》/主程 ####
 
